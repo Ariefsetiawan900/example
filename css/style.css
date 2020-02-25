@@ -1,3 +1,4 @@
+/* ini jumbotron */
 .jumbotron {
     background-image: url('../img/slider1.jpg');
     background-size: cover;
@@ -5,20 +6,23 @@
     text-align: center;
     margin-top: -120px;
 }
-
+/* text judul besar */
 .jumbotron .display-4{
     color: white;
     margin-top: 200px;
 }
+/* text dibawah garis kecil */
 .jumbotron p{
     color: white;
     font-size: 25px;
 }
+/* garis kecil */
 .jumbotron hr{
     border-color: #F05F40;
     width: 70px;
     border-width: 3px;
 }
+/* tombol "KUNJUNGI" */
 .jumbotron .btn{
     background-color: #F05F40;
     border: none;
